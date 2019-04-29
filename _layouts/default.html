@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About Me</a></li>
+	        		<li><a href="/tanzania">About Tanzania</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="/photos">Photos</a></li>
+	        		<li><a href="/timeline">Timeline</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+                        <!-- this is the default template used -->
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:calistaholman.64@gmail.com">email</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>

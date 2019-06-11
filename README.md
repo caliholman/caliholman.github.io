@@ -1,2 +1,2 @@
-Here's the site:
+Here is the site:
 https://caliholman.github.io

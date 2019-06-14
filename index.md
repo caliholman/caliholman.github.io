@@ -3,4 +3,4 @@ layout: default
 title: Cali Holman
 ---
 
-![gras](img/kilimanjaro.jpg)
+![mountains](img/kilimanjaro.jpg)

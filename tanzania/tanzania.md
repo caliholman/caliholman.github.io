@@ -22,7 +22,7 @@ Area: 945,087 square kilometers (364,900 square miles). For comparison this is s
 
 Land Borders: The Tanzania mainland is bounded by Uganda and Kenya to the north, by Mozambique, Malawi, and Zambia to the south and southwest, and by Burundi, Rwanda and Democratic Republic of the Congo to the west. 
 
-Water Borders: The east coast of Tanzania is the Indian Ocean. Tanzania also contains three of Africa's best-known lakes - Lake Victoria (the world’s second-largest freshwater lake) in the north, Tanganyika (the world’s second deepest) in the west, and Nyasa (Lake Malawi)in the south. 
+Water Borders: The east coast of Tanzania is the Indian Ocean. Tanzania also contains three of Africa's best-known lakes - Lake Victoria (the world’s second-largest freshwater lake) in the north, Tanganyika (the world’s second deepest) in the west, and Nyasa (Lake Malawi) in the south. 
 
 Elevation:
 Highest point: Mount Kilimanjaro (highest point in Africa), 5,895 m (19,340 ft)

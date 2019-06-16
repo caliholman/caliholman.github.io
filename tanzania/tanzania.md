@@ -77,6 +77,8 @@ Mobile telephones: 74 subscriptions per 100 inhabitants
 
 # [insert picture here]
 
+<img src="/img/flag.png" 		style="width:100%">
+
 ## Fun Facts:
 * The flag of Tanzania carries in it the 4 elements of Tanzania’s daily life. The green represents nature’s beauty, the yellow represents the mineral deposits of the country, the black represents the people, while the blue represents the great lakes.
 * The country has designated 25% of its land to wildlife sanctuaries and national parks. 

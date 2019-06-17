@@ -123,4 +123,5 @@ Mobile telephones: 74 subscriptions per 100 inhabitants
 * Freddie Mercury, the famous late songwriter and vocalist for the rock band ‘Queen’ was born in Zanzibar, Tanzania.
 * Tanzania is divided into 26 regions (mikoa), 21 on the mainland, 3 on Zanzibar Island and 2 on Pemba Island.
 * Lake Manyara National Park is the home to the world’s only tree climbing lions.
+{: .body }
 

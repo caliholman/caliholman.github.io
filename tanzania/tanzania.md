@@ -8,7 +8,7 @@ permalink: /tanzania/
 
 Tanzania, officially the United Republic of Tanzania, is a country on the eastern coast of Africa within the great lakes region. Tanzania is home to 55.5 million people (July 2018).
 
-<img src="/img/map_africa.jpg" 		style="width:25%">
+![map africa](/img/map_africa.jpg){:height="25%" width="25%"}
 
 ## History: 
 Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. In 1995, the first democratic elections were held in the country since the 1970s. Zanzibar maintains semi-autonomy and participates in national elections. 
@@ -107,7 +107,7 @@ Internet users: 13% of population
 
 Mobile telephones: 74 subscriptions per 100 inhabitants
 
-<img src="/img/flag.png" 		style="width:50%">
+![flag](/img/flag.png){:height="50%" width="50%"}
 
 ## Fun Facts:
 * The flag of Tanzania carries in it the 4 elements of Tanzania’s daily life. The green represents nature’s beauty, the yellow represents the mineral deposits of the country, the black represents the people, while the blue represents the great lakes.

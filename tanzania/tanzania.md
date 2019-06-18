@@ -8,7 +8,7 @@ permalink: /tanzania/
 
 Tanzania, officially the United Republic of Tanzania, is a country on the eastern coast of Africa within the great lakes region. Tanzania is home to 55.5 million people (July 2018).
 
-![tanzania africa map](/img/tanzania-africa-map.jpg){:height="25%" width="25%"}
+![tanzania africa map](/img/tanzania-africa-map.jpg){:height="50%" width="50%"}
 
 ## History: 
 Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. In 1995, the first democratic elections were held in the country since the 1970s. Zanzibar maintains semi-autonomy and participates in national elections. 

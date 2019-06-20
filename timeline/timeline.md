@@ -49,4 +49,8 @@ permalink: /timeline/
 * 8th given access to PC Onboarding with additional tasks
 * 19th received full medical clearance (FINALLY)
 * 30th last group conference call before staging
+* 30th received staging schedule and international flight information
+* 31st received flight information to staging in DC
 
+## June 2019
+* 7th received information on arrival in Dar es Salaam and what to expect the first few weeks in country

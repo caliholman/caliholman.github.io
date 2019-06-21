@@ -13,3 +13,5 @@ My name is Calista Holman and I am from Shell Lake, WI. I just graduated with a 
 This blog will document my Peace Corps journey. I will be in Tanzania for 27 months from July of 2019 through October of 2021. The first three months will be dedicated to Pre-Service Training (PST) where I will live with a host family, learn about the culture, Swahili, how to teach my classes and other safety/survival skills (such as building a water filtration system). Midway through those three months, I will get assigned a site where I will spend the next two years. We do get vacation days throughout those two years in which I plan on traveling Tanzania as well as other African countries.
 
 ![cali bench](/img/cali_bench.jpg){:height="94%" width="94%"}
+<img src="/img/cali_gradcap.jpg" 	style="width:100%">
+<img src="/img/cali_grad.jpg" 		style="width:100%">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Answering the questions..."
-date: 06.21.2019
+date: 2019-06-21
 ---
 
 # Answering the questions...

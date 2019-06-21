@@ -4,8 +4,6 @@ title: "Answering the questions..."
 date: 2019-06-21
 ---
 
-# Answering the questions...
-# 06.21.2019
 My first blog post will try to answer many of the questions I have already started getting. Unfortunately, the answers I have will not be very satisfying. 
 
 ## What do I know about the future?: 

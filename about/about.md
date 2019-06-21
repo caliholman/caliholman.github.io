@@ -4,7 +4,7 @@ title: About Cali Holman
 permalink: /about/
 ---
 
-# A Wee Bit About Mee
+# About Me
 
 ![cali south africa](/img/cali_south_africa.jpg){:height="50%" width="50%"}
 

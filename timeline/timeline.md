@@ -54,3 +54,8 @@ permalink: /timeline/
 
 ## June 2019
 * 7th received information on arrival in Dar es Salaam and what to expect the first few weeks in country
+
+## July 2019
+* 7th fly out to Washinton DC for staging
+* 8th fly out to Ethiopia and then Tanzania!!
+* 9th arrive in Tanzania and get settled in at a hotel in Dar es Salaam

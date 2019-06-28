@@ -14,7 +14,7 @@ Let me explain a little about what I do know. On July 7th I will be flying from 
 
 Part way through those three months I will be assigned the site where I will spend the next two years. I will be able to visit my site and familiarize myself with my future home as well as have time to stay with a current volunteer and experience daily life as a volunteer. Most likely, I will have my own home in the community where I am placed. At the end of the three months of training I will be sworn in as a Peace Corps Volunteer and officially move into my new community where I will live and work for the following two years!
 
-One theme has been common in all the conference calls and information I have received. “Try not to have any expectations.” This is because the experience is different for every volunteer. I have been told that the fewer expectations I have going in the easier the transition will be. Often my answer is simply, “I don’t know,” when I am asked questions about my upcoming Peace Corps experience, but I am okay with that and I am looking forward to having so many incredible experiences. 
+One theme has been common in all the conference calls and information I have received. “Try not to have any expectations.” This is because the experience is different for every volunteer. I have been told that the fewer expectations I have going in, the easier the transition will be. Often my answer is simply, “I don’t know,” when I am asked questions about my upcoming Peace Corps experience, but I am okay with that and I am looking forward to having so many incredible experiences. 
 
 ## How do I feel?
 

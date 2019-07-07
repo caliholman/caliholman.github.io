@@ -3,14 +3,12 @@ layout: default
 title: Cali Holman's Posts
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
 
 	  {% for post in site.posts %}
-             <li>
+		<hr>
+		<div>
 		<a style="font-weight:bold" href="{{ post.url }}" title="{{ post.title }}">{{ post.date | date: '%B %d, %Y' }} {{ post.title }} </a>
 		<br>
 		{{ post.content | strip_html | truncatewords: 20 }}
 		<a style="font-weight:bold" href="{{ post.url }}" title="{{ post.title }}">[Click here to continue reading]</a>
-	     </li>
 	  {% endfor %}
-	</ul>

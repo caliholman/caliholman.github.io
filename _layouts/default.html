@@ -24,6 +24,8 @@
 			</script>
 		</head>
 		<body>
+			<div id="container">
+			<div id="header">
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
@@ -34,13 +36,12 @@
 	        		<li><a href="/timeline">Timeline</a></li>
 	    		</ul>
 			</nav>
-			<div class="container">
+			<div class="container" id="body">
 			
                         <!-- this is the default template used -->
 			{{ content }}
 			</div><!-- /.container -->
-			<footer>
-			
+			<div id="footer">
 			<div id="mc_embed_signup">
 			<form action="https://gmail.us3.list-manage.com/subscribe/post?u=d3a34ea732ad9a2774b7c1c1b&amp;id=3848a855d4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
@@ -52,8 +53,9 @@
 			    </div>
 			</form>
 			</div>
+			</div>
 
 			<!--End mc_embed_signup-->
-			</footer>
+		</div>
 		</body>
 	</html>

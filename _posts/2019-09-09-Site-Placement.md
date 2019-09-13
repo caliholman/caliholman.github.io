@@ -16,13 +16,24 @@ My house is a cozy two room house. One room I have set up as my bedroom and the 
 
 My site and Lushoto are located in the Usambara mountains. The road leading to Lushoto contains many switchbacks as you climb up through the mountains and the views are stunning. The same is true along the road between my site and the next volunteers site. On a clear day there are some places along the road near my site that you can see mountains in Kenya off in the distance. After a one week visit to my site and a few of my neighboring volunteers' sites I am very happy with my placement and am excited to be able to call it home in two short weeks!
 
+<figure>
+<img src="/img/placement/kristine.jpg" 	style="width:100%">
+</figure>
 
 <figure>
 <img src="/img/placement/abby.jpg" 	style="width:100%">
 </figure>
 
 <figure>
-<img src="/img/placement/kristine.jpg" 	style="width:100%">
+<img src="/img/placement/marissa.jpg" 	style="width:100%">
+</figure>
+
+<figure>
+<img src="/img/placement/nervious.jpg" 	style="width:100%">
+</figure>
+
+<figure>
+<img src="/img/placement/pj.jpg" 	style="width:100%">
 </figure>
 
 <figure>
@@ -39,18 +50,6 @@ My site and Lushoto are located in the Usambara mountains. The road leading to L
 
 <figure>
 <img src="/img/placement/lushoto_04.jpg" 	style="width:100%">
-</figure>
-
-<figure>
-<img src="/img/placement/marissa.jpg" 	style="width:100%">
-</figure>
-
-<figure>
-<img src="/img/placement/nervious.jpg" 	style="width:100%">
-</figure>
-
-<figure>
-<img src="/img/placement/pj.jpg" 	style="width:100%">
 </figure>
 
 <figure>

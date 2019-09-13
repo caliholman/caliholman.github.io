@@ -29,15 +29,15 @@ My site and Lushoto are located in the Usambara mountains. The road leading to L
 </figure>
 
 <figure>
+<img src="/img/placement/placement_04.jpg" 	style="width:100%">
+</figure>
+
+<figure>
 <img src="/img/placement/placement_02.jpg" 	style="width:100%">
 </figure>
 
 <figure>
 <img src="/img/placement/placement_03.jpg" 	style="width:100%">
-</figure>
-
-<figure>
-<img src="/img/placement/placement_04.jpg" 	style="width:100%">
 </figure>
 
 <figure>

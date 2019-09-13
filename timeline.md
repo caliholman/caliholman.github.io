@@ -59,3 +59,18 @@ permalink: /timeline/
 * 7th fly out to Washinton DC for staging
 * 8th fly out to Ethiopia and then Tanzania!!
 * 9th arrive in Tanzania and get settled in at a hotel in Dar es Salaam
+* 14th leave Dar, arrive in Korogwe
+* 19th move in with host families
+
+## August 2019
+* 4th hike Mashinde
+* 10th day trip to Lushoto
+* 30th site announcements!
+* 31st depart for site visit
+
+## September
+* 1-8th visit my site and other shadow current volunteers at their sites
+* 8th return to homestay
+* 15th move out of homestay and into guest house (motel) in Korogwe
+* 18th swearing in ceremony
+* 19th depart for site!

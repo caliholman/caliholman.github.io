@@ -37,10 +37,6 @@ My site and Lushoto are located in the Usambara mountains. The road leading to L
 </figure>
 
 <figure>
-<img src="/img/placement/placement_03.jpg" 	style="width:100%">
-</figure>
-
-<figure>
 <img src="/img/placement/marissa.jpg" 	style="width:100%">
 </figure>
 
@@ -53,15 +49,19 @@ My site and Lushoto are located in the Usambara mountains. The road leading to L
 </figure>
 
 <figure>
+<img src="/img/placement/placement_03.jpg" 	style="width:100%">
+</figure>
+
+<figure>
 <img src="/img/placement/tanga_01.jpg" 	style="width:100%">
 </figure>
 
 <figure>
-<img src="/img/placement/tanga_02.jpg" 	style="width:100%">
+<img src="/img/placement/lushoto_01.jpg" 	style="width:100%">
 </figure>
 
 <figure>
-<img src="/img/placement/lushoto_01.jpg" 	style="width:100%">
+<img src="/img/placement/tanga_02.jpg" 	style="width:100%">
 </figure>
 
 <figure>

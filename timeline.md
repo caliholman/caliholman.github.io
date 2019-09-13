@@ -69,7 +69,7 @@ permalink: /timeline/
 * 31st depart for site visit
 
 ## September
-* 1-8th visit my site and other shadow current volunteers at their sites
+* 1st-8th visit my site and other shadow current volunteers at their sites
 * 8th return to homestay
 * 15th move out of homestay and into guest house (motel) in Korogwe
 * 18th swearing in ceremony

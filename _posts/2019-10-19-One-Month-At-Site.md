@@ -178,8 +178,9 @@ Finally time for some pictures!
 
 {% for image in site.static_files %}
     {% if image.path contains 'img/one_month' %}
-        <figure>
-        <img src="{{ site.baseurl }}{{ image.path }}" style="width:100%" />
-        </figure>
+<figure>
+<img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
+</figure>
     {% endif %}
 {% endfor %}
+

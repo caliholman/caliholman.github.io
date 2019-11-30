@@ -74,3 +74,6 @@ permalink: /timeline/
 * 15th move out of homestay and into guest house (motel) in Korogwe
 * 18th swearing in ceremony
 * 19th depart for site!
+
+## October
+* 

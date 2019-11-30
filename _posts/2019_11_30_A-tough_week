@@ -35,3 +35,12 @@ Another moment that was bittersweet occurred because of deer season opening week
 Now, as I am finally getting around to finishing this blog post, after a crazy week of grading exams and filling out students' final end of the year grade reports I would like to share about my Thanksgiving. Thanksgiving day I traveled from my site to my friend Abby's site in a village near Same (what normally would take 6-7 hours took me 12, but I made it!). There, I spent the evening with Abby and Jess who are volunteers that came to Tanzania with me as well as Abby's brother and two other girls who were all visiting Abby having just completed a 4 month study abroad program in Tanzania, Kenya and Rwanda. The six of us hung out, made dinner and watched the new Lion King. Friday we went back into Same town where we met up with other volunteers from my cohort, the Education 2018 cohort and the Health/Ag cohort that arrived in February. We all hung out Friday evening and then Saturday celebrated Friendsgiving. We rented out a guesti (similar to a motel) and were able to use their kitchen to prepare our feast. It was nice being able to spend the holidays together. 
 
 So, it the true spirit of Thanksgiving, I want to conclude this post by saying that although there are hard days when I see a lot of chapa or am missing family traditions back home, I am thankful for having friends and family at home that are supporting me in this journey and making sure I know that I am loved and missed when I cannot be there. I am thankful for the friends I have made here who support me and are there for me when I need a break after a long week or who I can spend the holidays with when I cannot be home with family. And I am thankful for all of the good times, conversations and experiences I have had throughout this journey here in Tanzania.
+
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/a_tough_week' %}
+<figure>
+<img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
+</figure>
+    {% endif %}
+{% endfor %}

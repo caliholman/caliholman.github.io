@@ -74,6 +74,15 @@ permalink: /timeline/
 * 15th move out of homestay and into guest house (motel) in Korogwe
 * 18th swearing in ceremony
 * 19th depart for site!
+* 21st FEMA Club trip to Soni
 
 ## October
-* 
+* 21st Trees, trees and more trees dropped off at school, planting all day
+* 26th Halloween pary in Lushoto
+
+## November
+* 28th Thanksgiving Day. Travelled to my friend Abby's for Thanksgiving day
+* 30th Thanksgiving celebration with PC volunteers in the North at Same
+
+## December
+* 2-7 Early Service Training (EST) for the Education 2019 cohort in Morogoro!

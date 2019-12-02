@@ -85,4 +85,4 @@ permalink: /timeline/
 * 30th Thanksgiving celebration with PC volunteers in the North at Same
 
 ## December
-* 2-7 Early Service Training (EST) for the Education 2019 cohort in Morogoro!
+* 2nd-7th Early Service Training (EST) for the Education 2019 cohort in Morogoro!

@@ -7,7 +7,8 @@ date: 2019-11-30
 This past week was one of the hardest in country so far for a couple reasons. First is a topic I have been avoiding talking about because I just don’t know how to portray it in words. That is the topic of corporal punishment. Peace Corps has 3 main goals and they are as follows:
 -   Helping the people of interested countries in meeting their need for trained men and women 
 -   Helping promote a better understanding of Americans on the part of the peoples served 
--   Helping promote a better understanding of other peoples on the part of Americans 
+-   Helping promote a better understanding of other peoples on the part of Americans
+ 
 As part of these goals I am very careful of what I write in my blogs about Tanzania and my experiences here. So with that being said I will do my best to share about my understanding and experiences of corporal punishment in Tanzanian school systems but if anyone has further questions or clarification please reach out to me. 
 
 In Tanzanian school systems corporal punishment is legal under the National Corporal Punishment Regulations of 1979 following the National Education Act of 1978. These regulations are updated and authorized by the Minister of Education. The rules provide guidance on when corporal punishment should be issued and to what extent. Various parts of the law state that:

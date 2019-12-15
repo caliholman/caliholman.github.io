@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Time Flies"
+date: 2019-12-14
+---
+
+
+It’s hard to believe it’s only been 2 weeks since my last post. It feels like it has been at least 2 months. My last post ended with our Thanksgiving celebration. The day after the Thanksgiving celebration, I and the 7 other volunteers from my cohort who were also at Thanksgiving got on a bus for the 8 hour ride to Morogoro for our Early Service Training (EST). Early Service Training takes place 2 months into our service at site and is a chance for us all to come together again. For EST each volunteer brings a counterpart that they choose from among fellow teachers at their school. It is recommended that they choose a counterpart who teaches the same or similar subject as they do but in reality we are told to choose someone who was most helpful during site installation and the first couple months at site. I had an easy decision in choosing my counterpart by having Daniel who went above and beyond for me, the students and the school so he accompanied me at the training in Morogoro. Although all counterparts in attendance know English as it is the medium of instruction at all schools some are more proficient than others (just like some volunteers are more proficient in Swahili than others). Because of the language barriers going both ways the week long training was a mix of Swahili and English. 
+
+
+
+Some training sessions were a mix of volunteers and counterparts and others were divided for just counterparts or just volunteers. That was because there were some things we needed to learn that counterparts did not need. Some topics we covered together were writing schemes of work (your year-long plan for teaching), classroom assessment and test construction, increasing language proficiency practices in the classroom, behavior change communication, nutrition and food security at school, program development model, NECTA, and Baseline Overview (the 6 week course incoming form 1 students go through before beginning their secondary education). Some topics volunteers covered were, monitoring, reporting and evaluation (MRE), Volunteer report form (VRF), safety and security check-in, medical check-in, sustainable club creation, grant writing, and Peace Corps committees. 
+
+
+
+The main highlight from the week for me was learning about the grant writing process. One of the main goals of Peace Corps is sustainability so that whatever we are doing here in country will have a lasting impact after we leave in two years. Part of that goal is why Peace Corps brought our counterparts to this training as well. That way they are learning the same information that we are and can help in sharing that information with other teachers back in our own communities. So with the grant writing process I want to make it clear that I will not be writing a grant and working on a project solely. Daniel and I will work together with our head of school and form a committee of teachers and community members to put together the grant and carry out the project. After talking with Daniel about what the greatest needs are at the school and in the community he shared about water security. The volunteer before me had started working on a grant for a water tank on the school grounds so that the school could catch and store water from the rainy season to be used in the dry season. Starting in January Daniel and I hope to start that process again and I am very excited for that possibility to work with the community, teaching them about grant writing, and carrying out the process. Part of Peace Corps Grants requirements is that there needs to be a 25% community contribution for every project. By working with the community throughout the planning, grant writing and implementation process the community will be able to come up with what their contribution will be and will hopefully lead to a more successful group effort in implementing the project. 
+
+Another highlight from the week was seeing the enthusiasm and learning of the counterparts. Many of them have not had the opportunity to go to trainings like this and learn about these topics. Looking around the room during sessions most counterparts had out notebooks taking notes, asking questions and were actively engaged. It was fun to see that simply by choosing these teachers as our counterparts and inviting them to this training they now have access to a many more people and resources. Daniel asked for my flash drive early in the week and throughout the week requested copies of every PowerPoint used during sessions. All the counterparts were added in a WhatsApp group chat where they can ask questions and discuss situations at their school. Included in that chat are many Peace Corps staff as well as members of staff from the Tanzanian Ministry of Education who were there helping facilitate some sessions. Our counterparts now have many resources that will be there long after we return to the states.
+
+Aside from the actual training, I enjoyed spending the week catching up with fellow volunteers. Having spent every day for almost 3 months with the 50 other volunteers and then going over 2 months without seeing them at all it was nice to be all back together again. And to see that all 51 of us are still here! In Peace Corps it is very common for people to end their service early either due to medical separation, early termination or any number of personal reasons but after one close call of a medical separation, all 51 of us are still here serving in our individual Tanzanian communities.
+
+
+
+Following the week of training, I took a trip to Dar es Salaam (Tanzania’s biggest city) with 3 other volunteers, Isabelle, Hayley and Nik. We spent two days in Dar enjoying the safi lifestyle (safi means clean, awesome, amazing and is a term used for things that are nicer or higher class). We enjoyed a room with a hot shower and a fan, riding in ubers instead of cramped public busses, and eating a lot of delicious food. A cheeseburger and fries, steak, Indian food, and Chinese dumplings. Oh and don’t forget real coffee! 
+
+
+
+I am now back in my village, unpacking, repacking, cleaning and weeding me garden that somehow grew like crazy in the two weeks I was away. I have already received a couple questions about what I do during school breaks and during the holidays so I’ll share that here but first I do want to share that a good portion of Tanzanians are Christian and they do celebrate Christmas as well as Boxing day and New Year’s. Now, back to my plans, all Peace Corps volunteers earn 2 days of vacation a month as well as 4 “banking and business days” in which we can go into town for banking and business. Because education volunteers are required to be at site when school is in session our leave days can be flexible during breaks and we can use banking and business days at the beginning and end of our travel in order to use less of our leave days. We are also allowed to use extra and go into the negative a little bit being we have constraints on when we can take leave due to the school schedule. So with that being said I will share with you the rest of my December plans. 
+
+
+
+My friend Steve, who was in my community based training (CBT) group during PST invited me and Devon, another girl who was also in our CBT group, to a wedding with him. He has a friend getting married on December 21st in Baku, Azerbaijan. So on December 18th, the three of us will fly out to Azerbaijan where we will spend a few days exploring and attending the wedding of Steve’s friend. After that on December 23rd we will be flying to Dubai, UAE where we will spend a few more days and celebrate Christmas. On the 28th of December we will fly back to Tanzania where we will meet up with a bunch of other volunteers to celebrate New Year’s. So if anyone has been to either Baku or Dubai please reach out with recommendations of places to go or things to see!
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/time_flies' %}
+<figure>
+<img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
+</figure>
+    {% endif %}
+{% endfor %}

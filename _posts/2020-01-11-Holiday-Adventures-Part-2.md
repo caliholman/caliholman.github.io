@@ -48,6 +48,7 @@ Overall this trip was amazing. I was able to explore two new countries and spend
     {% endif %}
 {% endfor %}
 
+
 {% for image in site.static_files %}
     {% if image.path contains 'img/Dubai_2' %}
 <figure>

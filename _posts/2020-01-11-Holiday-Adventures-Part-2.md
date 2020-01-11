@@ -38,3 +38,20 @@ New Years Day! Steve, Devon and I spent the day relaxing and hanging out at our 
 Took a bus back to Lushoto and the next day back to site.
 
 Overall this trip was amazing. I was able to explore two new countries and spend quality time with two of my best friends I made through this Peace Corps experience. And surprisingly, none of us got sick of each other over the trip (as far as I know). I am so glad that Steve invited both of us to accompany him to his friend’s wedding and then Devon had the idea of stopping in Dubai for Christmas. It was such a great way to spend my first holiday season away from home. Now, I am back to the grind teaching and getting projects started at site (I will discuss all that in a future post). 
+
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/Dubai' %}
+<figure>
+<img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
+</figure>
+    {% endif %}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/Dubai_2' %}
+<figure>
+<img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
+</figure>
+    {% endif %}
+{% endfor %}

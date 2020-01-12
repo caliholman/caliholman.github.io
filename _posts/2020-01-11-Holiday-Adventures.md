@@ -6,7 +6,7 @@ date: 2020-01-11
 
 Sorry to keep everyone waiting, I know many of you are curious to hear about and see pictures of my adventures the past few weeks but it takes a very long time to upload pictures on Tanzanian internet, even when I do go to town to get Wi-Fi. Anyway, as I mentioned in my last post I went to Baku and Dubai over the holidays. I think it will be easiest to just give a timeline and then add to each day with more information as I see fit. 
 
- ## December 17, 2019
+## December 17, 2019
 Left my site to go to Arusha (city closer to the airport). Devon also met me in Arusha being we had the same flight out. We stayed the night at Roberts, another volunteer from our cohort who is living in a village just outside of Arusha.
 
 ## December 18, 2019

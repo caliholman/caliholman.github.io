@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Holiday Adventures Part 1"
-date: 2020-01-11
 ---
 
 Sorry to keep everyone waiting, I know many of you are curious to hear about and see pictures of my adventures the past few weeks but it takes a very long time to upload pictures on Tanzanian internet, even when I do go to town to get Wi-Fi. Anyway, as I mentioned in my last post I went to Baku and Dubai over the holidays. I think it will be easiest to just give a timeline and then add to each day with more information as I see fit. 

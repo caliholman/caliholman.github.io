@@ -1,3 +1,6 @@
+* {
+	box-sizing: border-box;
+}
 html,
 body {
    margin: 60px auto;
@@ -5,6 +8,7 @@ body {
    padding:0;
    height:90%;
 }
+
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -36,6 +40,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    background-color: #404345;
+    width:100%;
 }
 
 ul.posts { 
@@ -54,17 +60,20 @@ ul.body {
 }
 
 
-#container {
+/*
+container {
    min-height:100%;
    position:relative;
 }
 
-#footer {
+footer {
    position:absolute;
    bottom:0;
    width:100%;
    height:20px;
+   background-color: #404345;
 }
+*/
 
 
 .PageNavigation {
@@ -88,4 +97,19 @@ ul.body {
   text-align: right;
 }
 
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
+/* Clear floats after the columns */
+/*
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+*/

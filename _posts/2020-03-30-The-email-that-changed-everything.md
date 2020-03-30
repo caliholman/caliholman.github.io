@@ -32,7 +32,7 @@ Right now over 7,000 Peace Corps Volunteers are returning to the United States -
 This as easily been the most stressful week of my life. I had to leave my home, say goodbye to friends and loved ones, and I had to flee a country. Compared to some I feel like I had it relatively easy. Everyone is feeling crazy right now, but our crazy has an extra level of crazy to it. There are few who understand this craze and it is so hard to be away from the people who understand this crazy the best. I feel so fortunate to have a community I can share that crazy with. We're through the looking class and we're all mad here.
 Tupo pamoja (We are together)
 
-### Posted on the howapcvputsitgently Instagram account
+### Posted on the howapcvputsitgently Instagram account:
 I wanted to say how incredibly proud and honored I have been to call myself a Peace Corps Volunteer.
 Regardless of country, sector, status, we all know what it is to love someone for who they are at their core. I have seen us all fall in love with our host countries and communities. I don't have words for it other than unconditional love.
 I have seen us look past differences in political beliefs, stereotypes, age, culture, background, and language to have the privilege of loving others.
@@ -40,7 +40,7 @@ I am proud to be part of this community. One that accepts. One that works for th
 For me, being a Peace Corps Volunteer has meant pain and sorrow at many times. But it has also meant unimaginable joy and unconditional love at many many more times. And I would do it all over again for the privilege of loving and being loved by my community.
 
 
-## I wanted to share some picture from my last week in Tanzania, saying goodbye to my students and teachers, my counterpart, Daniel, my friends in Lushoto and my last evening with some of my fellow PCVs before finally arriving home to mom and dad picking me up at the airport
+## Finally, I wanted to share some picture from my last week in Tanzania, saying goodbye to my students and teachers, my counterpart, my friends in Lushoto and my last evening with some of my fellow PCVs before finally arriving home to mom and dad picking me up at the airport
 {% for image in site.static_files %}
     {% if image.path contains 'img/Evacuation2' %}
 <figure>

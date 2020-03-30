@@ -16,6 +16,7 @@ I think I miss the carefree laughter the most or maybe the baby screaming and wa
 Now I listen to cars and the fridge humming endlessly. Truthfully, I have birds in the morning and laughter from the neighbors, but it's not the same laughter. It's not the same birds. Some of the wonder is gone. But I hope I will find wonder again in America. I will again delight in the sound of the wind through the pines and the sizzling of food on the grill. I landed in a different America and I evacuated from a soon-to-be-different Tanzania. I worry about both places and all places in between. I worry about the new silences that fill the gaps of this new world. But I hope one day that we can help fill this planet with the joyous noise of healing again.
 
 
+
 ### Written by a Madagascar PCV:
 To the friends and family of recently evacuated Peace Corps volunteers:
 As most people know, this week Peace Corps worldwide made the difficult decision to evacuate and early COS (close of service) all volunteers around the world. Many of us only had a couple days to say our goodbyes while some didn't even get the chance at all. The evacuation process isn't easy and the processing of returning to America so abruptly is even harder. So many feelings and emotions are happening all at once along with the upcoming reverse culture shock. In general reverse culture shock is often the hardest part of people's services and that is even when they have had time to prepare. This new group of volunteers were abruptly sent home and now we don't know what's up and what's down.
@@ -27,6 +28,8 @@ Also, avoid asking us what comes next. We've literally been through the hardest,
 We know you're happy to see us, and we wish we could be equally as happy to be back, but as a volunteer we developed a new home, new friends, new family, new ways of life, and we've just left that all behind uncertain if or when we will return. Be patient with us. We're sleep deprived, emotionally and physically drained and completely out of sorts. Ask us how we can be supported. We all handle things differently so ask first what you can do to best support us. Give us time and space to process but also ask meaningful questions. Remember this was not a vacation or just some trip we took. We completely immersed ourselves into our new country and culture and constructed a new life there. Which also means don't expect us to be the same person we were when we left. Get to know this new person returning and don't make assumptions about who we are now. We most likely see the world much differently than we did before we left.
 
 We're sorry we can't feel all the same emotions our loved ones are probably feeling with having us back, but remember we love you and care about you but right now many of us are broken and will need some time to repair and for each of us this process could look and feel differently. Be patient. This evacuation came as a surprise for all of us and so now we must learn how to adjust.
+
+
 
 ### Posted by fellow Peace Corps Tanzania volunteer in Lushoto:
 To my fellow Peace Corps refugees,
@@ -43,6 +46,8 @@ Right now over 7,000 Peace Corps Volunteers are returning to the United States -
 This as easily been the most stressful week of my life. I had to leave my home, say goodbye to friends and loved ones, and I had to flee a country. Compared to some I feel like I had it relatively easy. Everyone is feeling crazy right now, but our crazy has an extra level of crazy to it. There are few who understand this craze and it is so hard to be away from the people who understand this crazy the best. I feel so fortunate to have a community I can share that crazy with. We're through the looking class and we're all mad here.
 Tupo pamoja (We are together)
 
+
+
 ### Posted on the howapcvputsitgently Instagram account:
 I wanted to say how incredibly proud and honored I have been to call myself a Peace Corps Volunteer.
 
@@ -53,6 +58,7 @@ I have seen us look past differences in political beliefs, stereotypes, age, cul
 I am proud to be part of this community. One that accepts. One that works for the betterment of the whole (and shout out to our amazing counterparts). One that appreciates all the little things, because they aren't really little. One that loves and loves and loves with no end. One that will be there for each other at the drop of a dime. One that is empathetic. And above all else, one that sees the inherent worth and good in every human.
 
 For me, being a Peace Corps Volunteer has meant pain and sorrow at many times. But it has also meant unimaginable joy and unconditional love at many many more times. And I would do it all over again for the privilege of loving and being loved by my community.
+
 
 
 ## Finally, I wanted to share some picture from my last week in Tanzania, saying goodbye to my students and teachers, my counterpart, my friends in Lushoto and my last evening with some of my fellow PCVs before finally arriving home to mom and dad picking me up at the airport

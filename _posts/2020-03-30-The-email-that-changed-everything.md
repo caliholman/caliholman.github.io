@@ -40,9 +40,9 @@ I am proud to be part of this community. One that accepts. One that works for th
 For me, being a Peace Corps Volunteer has meant pain and sorrow at many times. But it has also meant unimaginable joy and unconditional love at many many more times. And I would do it all over again for the privilege of loving and being loved by my community.
 
 
-## To end, I wanted to share some picture from my last week in Tanzania. saying goodbye to my students and teacher, my counterpart, Daniel, my friends in Lushoto and my last evening with some of my fellow PCVs
+## I wanted to share some picture from my last week in Tanzania, saying goodbye to my students and teachers, my counterpart, Daniel, my friends in Lushoto and my last evening with some of my fellow PCVs before finally arriving home to mom and dad picking me up at the airport
 {% for image in site.static_files %}
-    {% if image.path contains 'img/Evacuation' %}
+    {% if image.path contains 'img/Evacuation2' %}
 <figure>
 <img src="{{ site.baseurl }}{{ image.path }}" style="width:60%" alt="image"/>
 </figure>

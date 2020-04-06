@@ -43,7 +43,7 @@ I don't know what I'm going to do yet, but I'm pretty sure I'm going to figure i
 
 Right now over 7,000 Peace Corps Volunteers are returning to the United States - thousands of volunteers scattered across the country who are dedicated, skilled, and compelled to serve. Our service ended abruptly but I don't think that means any of us are going to stop serving. I think things are weird right now and they're only going to get weirder. Our communities are going to need us and I take solace in knowing that you are all out there. I am honored to have served with you.
 
-This has easily been the most stressful week of my life. I had to leave my home, say goodbye to friends and loved ones, and I had to flee a country. Compared to some I feel like I had it relatively easy. Everyone is feeling crazy right now, but our crazy has an extra level of crazy to it. There are few who understand this crazy and it is so hard to be away from the people who understand this crazy the best. I feel so fortunate to have a community I can share that crazy with. We're through the looking class and we're all mad here.
+This has easily been the most stressful week of my life. I had to leave my home, say goodbye to friends and loved ones, and I had to flee a country. Compared to some I feel like I had it relatively easy. Everyone is feeling crazy right now, but our crazy has an extra level of crazy to it. There are few who understand this crazy and it is so hard to be away from the people who understand this crazy the best. I feel so fortunate to have a community I can share that crazy with. We're through the looking glass and we're all mad here.
 Tupo pamoja (We are together)
 
 

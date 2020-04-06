@@ -33,7 +33,7 @@ We're sorry we can't feel all the same emotions our loved ones are probably feel
 
 ### Posted by fellow Peace Corps Tanzania volunteer in Lushoto:
 To my fellow Peace Corps refugees,
-I hope you are healthy and comfortable. (if you're not, what else is new?) I don't know about you, but I am tired, I am emotional, and I am disoriented. This is not how I thought my service would end, ot what coming home would be like, and definitely not what I thought life in the United States would be like. 
+I hope you are healthy and comfortable. (if you're not, what else is new?) I don't know about you, but I am tired, I am emotional, and I am disoriented. This is not how I thought my service would end, or what coming home would be like, and definitely not what I thought life in the United States would be like. 
 
 I don't think I've ever experienced so much uncertainty, either personally or in the world at large. I don't know what I'm going to do for work. I don't know where I'm going to live. I don't known when I'll be able to see my friends and family again. I don't know when this pandemic will subside. And I don't know when things will resemble a sense of normalcy. I just don't know. Underlying all of this is a question I keep asking: What are you doing to do?
 

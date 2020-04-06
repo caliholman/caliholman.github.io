@@ -37,7 +37,7 @@ I hope you are healthy and comfortable. (if you're not, what else is new?) I don
 
 I don't think I've ever experienced so much uncertainty, either personally or in the world at large. I don't know what I'm going to do for work. I don't know where I'm going to live. I don't known when I'll be able to see my friends and family again. I don't know when this pandemic will subside. And I don't know when things will resemble a sense of normalcy. I just don't know. Underlying all of this is a question I keep asking: What are you going to do?
 
-I asked this question a lot during service. When transportation failed, when I ran our of water, when I was sick, when I was scared. When something went wrong, and then another, and another. Everytime: What are you going to do?
+I asked this question a lot during service. When transportation failed, when I ran out of water, when I was sick, when I was scared. When something went wrong, and then another, and another. Everytime: What are you going to do?
 
 I don't know what I'm going to do yet, but I'm pretty sure I'm going to figure it out. I did then (most of the time). We are all going through a lot right now, but we've already been through a lot. We are all capable, adaptable, and resilient people who have proven that they can live through extraordinary circumstances. I think we're going to figure it out.
 
